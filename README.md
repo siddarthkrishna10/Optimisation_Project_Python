@@ -2,7 +2,7 @@
 An Optimisation Project in Python. Studying trends in Football Transfers and building a regression model to predict the market value of players.
 
 ## Part I 
-**Goal:** To see and understand the trend of how much clubs have been paying over the market value for players over 14 seasons.
+**Goal:** To understand the trend of how much clubs have been paying over the market value for players over the past 14 seasons.
 
 ### Files for PART I:
 - _Transfers.csv_ - The CSV file that contains the full Kaggle dataset.
@@ -17,7 +17,7 @@ An Optimisation Project in Python. Studying trends in Football Transfers and bui
 - _import matplotlib.pyplot as plt_
 
 ## Part II
-**Goal:** To split, train the dataset and apply Linear Regression in the hopes of creating an accurate model to predict the Market Value of players in the coming seasons.
+**Goal:** To create a Linear Regression model that can accurately predict the Market Value of players in the coming seasons.
 
 ### Files for PART II:
 - _Transfers.csv_ - The CSV file that contains the full Kaggle dataset.
