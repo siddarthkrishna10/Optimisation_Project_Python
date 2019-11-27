@@ -11,7 +11,7 @@ An Optimisation Project in Python. Studying trends in Football Transfers and bui
   - _Line_Graph.png_ - Image of the line graph
 - _Plot_Difference.py_ - Python file where the line graph for Average Difference is plotted.
 
-### Packages for PART 1:
+### Packages used in PART 1:
 - _import pandas as pd_
 - _import numpy as np_
 - _import matplotlib.pyplot as plt_
@@ -25,7 +25,7 @@ An Optimisation Project in Python. Studying trends in Football Transfers and bui
   - _Actual_Predicted.csv_ is created.
   - _Linear_Regression.png_ - Image of the linear regression model and scatter plot
 
-### Packages for PART II:
+### Packages used in PART II:
 - _import numpy as np_
 - _import pandas as pd_
 - _import matplotlib.pyplot as plt_
