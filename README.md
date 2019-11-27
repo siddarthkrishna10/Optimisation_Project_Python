@@ -1,5 +1,5 @@
 # Optimisation in Data Science Assignment
-An Optimisation Project in Python. Studying trends in Football Transfers and building a regression model to predict the market value of players.
+An Optimisation Project in Python. Understanding trends in Football Transfers and building a regression model to predict the market value of players.
 
 ## Part I 
 **Goal:** To understand the trend of how much clubs have been paying over the market value for players over the past 14 seasons.
