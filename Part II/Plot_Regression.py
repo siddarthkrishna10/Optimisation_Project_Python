@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn import metrics
 
-c = pd.read_csv('Transfers.csv')
+c = pd.read_csv('https://github.com/siddarthkrishna10/Optimisation_Project_Python/blob/master/Part%20II/Transfers.csv')
 
 c1 = c.dropna()
 
