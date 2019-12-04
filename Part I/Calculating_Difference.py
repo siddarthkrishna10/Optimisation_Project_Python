@@ -4,7 +4,7 @@ import numpy as np
 pd.set_option('display.max_columns', None)
 pd.set_option('display.max_rows', None)
 
-a = pd.read_csv('Transfers.csv')
+a = pd.read_csv('https://github.com/siddarthkrishna10/Optimisation_Project_Python/blob/master/Part%20I/Transfers.csv')
 
 a1 = a.dropna()
 
@@ -75,4 +75,4 @@ mean = pd.DataFrame({'Season': ['2004/2005', '2005/2006', '2006/2007', '2007/200
                                                                                   '%f' % mean11, '%f' % mean12,
                                                                                   '%f' % mean13, '%f' % mean14,
                                                                                   '%f' % mean15, '%f' % mean16]})
-mean.to_csv('Mean_Table.csv')
+mean.to_csv('https://github.com/siddarthkrishna10/Optimisation_Project_Python/blob/master/Part%20I/Mean_Table.csv')
